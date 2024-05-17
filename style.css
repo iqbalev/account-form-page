@@ -57,4 +57,6 @@
 
 .form-element > .submit:hover {
   cursor: pointer;
+  background-color: rgb(80, 143, 122);
+  color: whitesmoke;
 }
